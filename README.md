@@ -1,14 +1,14 @@
 # Promptiy
 
-> **AI prompt marketplace and output library** — a platform for discovering, sharing, and monetizing high-quality prompts and their outputs.
+> **AI prompt marketplace and output library** a platform for discovering, sharing, and monetizing high-quality prompts and their outputs.
 
 ---
 
 ## Concept
 
-Promptiy started as a prompt marketplace — a place to buy and sell engineered prompts for LLMs. Through iteration, the model evolved toward an **Output Library**: instead of selling prompts, the platform sells the *outputs* themselves (generated images, documents, analyses, templates) as ready-to-use digital products.
+Promptiy started as a prompt marketplace a place to buy and sell engineered prompts for LLMs. Through iteration, the model evolved toward an **Output Library**: instead of selling prompts, the platform sells the *outputs* themselves (generated images, documents, analyses, templates) as ready-to-use digital products.
 
-The insight: most users don't want to learn prompt engineering — they want the result.
+The insight: most users don't want to learn prompt engineering they want the result.
 
 ---
 
@@ -25,10 +25,10 @@ This pivot was driven by user behavior observation: prompt quality is hard to ev
 
 ## Stack
 
-**Frontend:** Next.js 14 · TypeScript · Tailwind CSS  
-**Backend:** Supabase (Postgres + Auth + Storage)  
-**Payments:** Lemon Squeezy  
-**Deployment:** Vercel  
+**Frontend:** Next.js 14 · TypeScript · Tailwind CSS 
+**Backend:** Supabase (Postgres + Auth + Storage) 
+**Payments:** Lemon Squeezy 
+**Deployment:** Vercel 
 
 ---
 
@@ -46,7 +46,7 @@ This pivot was driven by user behavior observation: prompt quality is hard to ev
 
 - Digital product marketplaces have a severe cold-start problem on both sides (creators and buyers)
 - Output-first framing converts better than prompt-first framing in user testing
-- The pivot from "sell prompts" to "sell outputs" is a fundamentally different product — requires a different creator onboarding flow
+- The pivot from "sell prompts" to "sell outputs" is a fundamentally different product requires a different creator onboarding flow
 
 ---
 
